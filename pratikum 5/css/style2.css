@@ -1,0 +1,75 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* buat atas */
+.atas {
+  /* display:flex; */
+  margin: 4rem;
+}
+.satu2 {
+  float: left;
+  width: 10rem;
+  height: 5rem;
+  background-color: rgb(255, 255, 0);
+  margin-right: 2rem;
+  border: 1px solid;
+  margin-bottom: 4rem;
+}
+.dua2 {
+  float: left;
+  width: 60rem;
+  height: 5rem;
+  background-color: orangered;
+  margin-left: 2rem;
+  border: 1px solid;
+  margin-bottom: 4rem;
+}
+/* selesai disini */
+/* buat tengah */
+.tengah {
+  /* display: flex; */
+  margin-left: 4rem;
+}
+.tiga2 {
+  float: left;
+  width: 10rem;
+  height: 46rem;
+  background-color: green;
+  margin-right: 2rem;
+  border: 1px solid;
+  margin-bottom: 4rem;
+}
+.empat2 {
+  float: left;
+  width: 46rem;
+  height: 46rem;
+  background-color: gray;
+  margin: 0 2rem;
+  border: 1px solid;
+  margin-bottom: 4rem;
+}
+.lima2 {
+  float: left;
+  width: 10rem;
+  height: 46rem;
+  background-color: rgb(7, 170, 182);
+  margin-left: 2rem;
+  border: 1px solid;
+  margin-bottom: 4rem;
+}
+/* selesai disini */
+/* buat bawah */
+.bawah {
+  margin: 4rem 0 0 4rem;
+}
+.enam2 {
+  float: left;
+  width: 74rem;
+  height: 5rem;
+  background-color: blue;
+  margin-bottom: 4rem;
+  border: 1px solid;
+}
+/* selesai disini */

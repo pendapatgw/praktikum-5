@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* buat index */
+
+.satu{
+    float: right;
+    width: 15%;
+    height: 30em;
+    background-color: yellow;
+    border: 1px solid;
+    margin: 5rem 3rem;
+}
+.dua{
+    float: right;
+    width: 15%;
+    height: 30em;
+    background-color: rgb(248, 68, 2);
+    border: 1px solid;
+    margin: 5rem 3rem;
+}
+.tiga{
+    float: right;
+    width: 15%;
+    height: 30em;
+    background-color: rgb(28, 219, 28);
+    border: 1px solid;
+    margin: 5rem 3rem;
+}
+.empat{
+    float: right;
+    width: 15%;
+    height: 30em;
+    background-color: rgb(72, 151, 241);
+    border: 1px solid;
+    margin: 5rem 3rem;
+}
+
+/* selesai disini */
+/* buat index1 */
+/* selesai disini */
+/* buat index2 */
+/* selesai disini */
